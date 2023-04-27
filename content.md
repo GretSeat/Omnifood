@@ -127,7 +127,7 @@ Recipe directory
 Help center
 Privacy & terms
 
-######
+#######
 
 ## Sections
 
@@ -140,3 +140,5 @@ Privacy & terms
 - Pricing + Features
 - CTA
 - Footer
+
+###
